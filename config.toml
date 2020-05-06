@@ -1,0 +1,4 @@
+baseURL = "http://shenhaoyi.github.io/"
+languageCode = "zh-Hans"
+title = "小黑的博客"
+theme = "ananke"
